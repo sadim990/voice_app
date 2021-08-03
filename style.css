@@ -1,0 +1,63 @@
+body{
+    background: orange;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.header_div{
+    background: yellow;
+    color: blue;
+}
+
+.header_div img{
+    width: 80px;
+    height: 80px;
+}
+
+.main_div{
+    background: blueviolet;
+    padding: 10px;
+    border: 3px solid greenyellow;
+    margin-top: 15px;
+}
+
+#camera , #result{
+    border: 3px solid blue;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button{
+    width: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div label{
+    color: white;
+    font-size: 25px;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 3px 5px 38px yellow;
+}
+
+.footer_div img{
+    width: 70px;
+    height: 70px;
+}
+
+.copy-right-footer{
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: orangered;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+}
